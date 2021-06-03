@@ -1,0 +1,53 @@
+commit 4db6b73c4f62b917888442e89e032ec2da7e1c04
+Author: Cosmobyte <cosmin.mirel18@gmail.com>
+Date:   Thu Jun 3 10:04:54 2021 +0200
+
+    Delete Data/Irony directory
+
+commit 1c15a0058af7dfe807e2dfc14c7ac78e00cc607a
+Author: Javh2138 <javh@itu.dk>
+Date:   Mon May 31 14:41:20 2021 +0200
+
+    added the hate train labels for a 100 tweets
+
+commit 87557dc8a22d207ceb7b975a34bdb85c1b441e0b
+Author: Javh2138 <javh@itu.dk>
+Date:   Mon May 31 13:57:52 2021 +0200
+
+    added my hate classification
+
+commit f2c8d61824cecbf2dab7fa1e5cfe498d3967ec2d
+Author: Javh2138 <javh@itu.dk>
+Date:   Mon May 31 13:32:16 2021 +0200
+
+    readded the hate dataset
+
+commit 409fd3b97a06fcc2d930312dde1113806800abe0
+Author: Javh2138 <javh@itu.dk>
+Date:   Mon May 31 11:30:55 2021 +0200
+
+    added the 100 manual labels
+
+commit 38540fbdaa40e4abe760b4916ef5f382770e60d1
+Author: Javh2138 <javh@itu.dk>
+Date:   Tue May 4 16:37:03 2021 +0200
+
+    added the dataset used in exercise: N-gram Language Modelling
+
+commit 2bb42a104b5c6147a85cfae76746a48b9c4e05c3
+Author: Javh2138 <javh@itu.dk>
+Date:   Tue Apr 27 14:54:10 2021 +0000
+
+    TEST: uploading the notebook from the terminal in deepnote
+
+commit 9b74274ecf58b2d77c85bc02298f8af32bd70f07
+Author: Javh2138 <javh@itu.dk>
+Date:   Tue Apr 27 17:09:00 2021 +0200
+
+    added the datasets for Irony and emotion
+
+commit d94346ade5b48a458eeaf1272a4077ae1cedb535
+Author: Javh2138 <78596973+Javh2138@users.noreply.github.com>
+Date:   Tue Apr 27 16:38:56 2021 +0200
+
+    Initial commit
